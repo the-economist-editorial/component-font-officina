@@ -1,0 +1,14 @@
+@import "./index.css";
+
+
+.example--officina {
+  margin-left: 7.6%;
+  font-family: "Officina";
+  font-size: 30px;
+}
+
+.example--officina-bold {
+  margin-left: 7.6%;
+  font-family: "Officina-Bold";
+  font-size: 30px;
+}
