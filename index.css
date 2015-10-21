@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Officina-Bold";
+  font-weight: normal;
+  src: url('/assets/officina-bold.otf');
+}
+
+@font-face {
+  font-family: "Officina";
+  font-weight: normal;
+  src: url('/assets/officina.otf');
+}
