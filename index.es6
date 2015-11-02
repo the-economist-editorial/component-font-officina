@@ -2,6 +2,12 @@ import React from 'react';
 
 export default class FontOfficina extends React.Component {
 
+  static get propTypes() {
+    return {
+      children: React.PropTypes.node.isRequired,
+    };
+  }
+
   render() {
     return (
       <div>
@@ -9,5 +15,4 @@ export default class FontOfficina extends React.Component {
       </div>
     );
   }
-
 }
